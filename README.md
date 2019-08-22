@@ -2,11 +2,11 @@
 This repo will launch EC2 and RDS instance using variables from interactive shell
 
 ### Prerequistes ###
-1. AWS IAM Account with permissions to the following policies.
-  a. AmazonEC2FullAccess
-  b. AmazonRDSFullAccess
-2. Latest Terraform CLI to run Terraform commands.
-3. A base instance to install and run Terraform commands.
+* AWS IAM Account with permissions to the following policies.
+  1. AmazonEC2FullAccess
+  2. AmazonRDSFullAccess
+* Latest Terraform CLI to run Terraform commands.
+* A base instance to install and run Terraform commands.
 
 ### Commands to download and install Terraform ###
 ```console
